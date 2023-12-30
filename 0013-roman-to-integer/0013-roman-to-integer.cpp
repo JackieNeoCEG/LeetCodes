@@ -16,9 +16,10 @@ public:
                 char prevCh = s[i - 1];
                 int prevVal = charVal[prevCh];
                 
-                if (currVal > prevVal) {
+                //subtraction case
+                if (currVal > prevVal) { //e.g XC -> X - C = 90
                     ans += currVal - prevVal;
-                    i--;
+                    i--; //symbol is skipped since it has been passed
                 } else {
                     ans += currVal;
                 }
