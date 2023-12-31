@@ -1,4 +1,3 @@
-import numpy as np
 class Solution(object):
     def climbStairs(self, n):
         """
@@ -10,7 +9,7 @@ class Solution(object):
         if n == 2:
             return 2
         
-        dp = np.zeros(n + 1, dtype=int)
+        dp = [0] * (n + 1)
         dp[1] = 1
         dp[2] = 2
 
