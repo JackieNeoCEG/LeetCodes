@@ -15,10 +15,14 @@ class Solution(object):
         if root is None:
             return 0
         
-        value = root.val if low <= root.val <= high else 0
-        
-        #putting "self" ensures recursive calls within the same class
-        leftVal = self.rangeSumBST(root.left, low, high)
-        rightVal = self.rangeSumBST(root.right, low, high)
-        
-        return value + leftVal + rightVal
+        #optimised recursive calls to ignore subtrees based on range
+        if root.val < low:
+            return self.rangeSumBST(root.right, low, high)
+        elif root.val > high:
+            return self.rangeSumBST(root.left, low, high)
+        else:
+            return (
+                root.val +
+                self.rangeSumBST(root.left, low, high) +
+                self.rangeSumBST(root.right, low, high)
+            )
