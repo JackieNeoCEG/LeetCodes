@@ -12,18 +12,31 @@
 class Solution {
 public:
     int rangeSumBST(TreeNode* root, int low, int high) {
-        if (root == NULL) {
+       if (root == nullptr) {
             return 0;
         }
-        
-        // Optimized recursive calls to ignore subtrees if not within range
-        if (root->val < low) {
-            return rangeSumBST(root->right, low, high);
-        } else if (root->val > high) {
-            return rangeSumBST(root->left, low, high);
-        } else {
-            // Calculate the sum for the current node and both subtrees
-            return root->val + rangeSumBST(root->left, low, high) + rangeSumBST(root->right, low, high);
+
+        int sum = 0;
+        stack<TreeNode*> nodeStack;
+        nodeStack.push(root);
+
+        while (!nodeStack.empty()) {
+            TreeNode* node = nodeStack.top();
+            nodeStack.pop();
+
+            if (node != nullptr) {
+                if (node->val > low) {
+                    nodeStack.push(node->left);
+                }
+                if (node->val < high) {
+                    nodeStack.push(node->right);
+                }
+                if (low <= node->val && node->val <= high) {
+                    sum += node->val;
+                }
+            }
         }
+
+        return sum;
     }
 };
