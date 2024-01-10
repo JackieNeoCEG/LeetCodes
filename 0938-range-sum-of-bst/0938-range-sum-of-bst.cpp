@@ -16,14 +16,14 @@ public:
             return 0;
         }
         
-        //finds nodes' values within the range, rest are 0 in the sum
-        int value = (root->val >= low && root->val <= high) ? root->val : 0;
-        
-        //recursive traversal
-        int leftSum = rangeSumBST(root->left, low, high);
-        int rightSum = rangeSumBST(root->right, low, high);
-        
-        //sums nodes
-        return value + leftSum + rightSum;
+        // Optimized recursive calls to ignore subtrees if not within range
+        if (root->val < low) {
+            return rangeSumBST(root->right, low, high);
+        } else if (root->val > high) {
+            return rangeSumBST(root->left, low, high);
+        } else {
+            // Calculate the sum for the current node and both subtrees
+            return root->val + rangeSumBST(root->left, low, high) + rangeSumBST(root->right, low, high);
+        }
     }
 };
