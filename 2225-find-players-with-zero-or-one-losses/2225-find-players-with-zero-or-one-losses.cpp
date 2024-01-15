@@ -3,9 +3,9 @@ public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         map<int,int>mp;
 
-        for(int i = 0; i < matches.size(); i++){
-            mp[matches[i][0]];
-            mp[matches[i][1]]++;
+        for (const auto& match : matches) {
+            mp[match[0]];
+            mp[match[1]]++;
         }
 
         vector<vector<int>>ans(2);
