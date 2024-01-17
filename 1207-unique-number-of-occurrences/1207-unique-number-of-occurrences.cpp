@@ -16,6 +16,7 @@ public:
             freqFreq[pair.second]++;
         }
         
+        //Uniqueness based off both map's sizes
         return freqMap.size() == freqFreq.size();
         
     }
