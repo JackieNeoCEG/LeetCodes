@@ -16,13 +16,7 @@ public:
             freqFreq[pair.second]++;
         }
         
-        //
-        for (const auto& pair : freqFreq) {
-            if(pair.second > 1) {
-                return false;
-            }
-        }
-        return true;
+        return freqMap.size() == freqFreq.size();
         
     }
 };
