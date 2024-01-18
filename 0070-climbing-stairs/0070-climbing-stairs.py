@@ -9,7 +9,8 @@ class Solution(object):
         if n == 2:
             return 2
         
-        dp = [0] * (n + 1)
+        #initialise an array of zeros with size n + 1
+        dp = [0] * (n + 1) 
         dp[1] = 1
         dp[2] = 2
 
