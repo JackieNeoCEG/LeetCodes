@@ -15,7 +15,8 @@ public:
         if (maxMove == 0) {
             return 0;
         }
-        // Initialize memoi vector to have dimensions n x m x (maxMove + 1) with all values of -1
+        // Initialize memoi vector to have dimensions 50 x 50 x 51 with all values of -1
+        // This is based off the problem's constraints due to time limits!
         if (memo.empty()) {
             memo.resize(50, vector<vector<int>>(50, vector<int>(51, -1)));
         }
