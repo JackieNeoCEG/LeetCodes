@@ -1,12 +1,21 @@
 class Solution {
 public:
     int resolve(int a, int b, char op) {
-        if(op == '+') return a + b;
-        else if(op == '-') return a - b;
-        else if(op == '*') return a * b;
-        return a / b;
+        switch(op) {
+            case '+':
+                return a + b;
+            case '-':
+                return a - b;
+            case '*':
+                return a * b;
+            case '/':
+                return a / b;
+            default:
+                // Handle invalid operator
+                return -1; 
+        }
     }
-    
+        
     int evalRPN(vector<string>& tokens) {
         stack<int> Stack;
         
