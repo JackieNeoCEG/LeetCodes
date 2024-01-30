@@ -12,7 +12,7 @@ public:
         
         int n = tokens.size();
         for(int i = 0; i < n; i++){
-            if(tokens[i].size() == 1 && tokens[i][0] < 48){
+            if(tokens[i].size() == 1 && tokens[i][0] < 48) {
                 int integer2 = Stack.top();
                 Stack.pop();
                 int integer1 = Stack.top();
@@ -21,8 +21,10 @@ public:
                 string Operator = tokens[i];
                 int resolvedAns = resolve(integer1, integer2 , Operator[0]);
                 Stack.push(resolvedAns);
-            }else 
-                Stack.push(stol(tokens[i]));
+            } else { 
+                //stoi: string to int
+                Stack.push(stoi(tokens[i]));
+            }
         }
         return Stack.top();
     }
