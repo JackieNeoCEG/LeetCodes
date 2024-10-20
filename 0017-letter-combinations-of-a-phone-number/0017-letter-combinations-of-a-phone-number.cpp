@@ -1,36 +1,38 @@
 class Solution {
 public:
     vector<string> letterCombinations(string digits) {
-        if (digits.empty()) return {}; 
-        
-        unordered_map<char, string> digitToLetters = {
-            {'2', "abc"}, {'3', "def"}, {'4', "ghi"}, {'5', "jkl"},
-            {'6', "mno"}, {'7', "pqrs"}, {'8', "tuv"}, {'9', "wxyz"}
+        if (digits.empty()) return {};  // Edge case: if no digits, return empty vector
+
+        vector<string> digitToLetters = {
+            "",    // 0 (not used)
+            "",    // 1 (not used)
+            "abc", // 2
+            "def", // 3
+            "ghi", // 4
+            "jkl", // 5
+            "mno", // 6
+            "pqrs",// 7
+            "tuv", // 8
+            "wxyz" // 9
         };
-        
-        vector<string> result;
-        string currentCombination;
-        
-        backtrack(digits, 0, currentCombination, digitToLetters, result);
+
+        // Initialise
+        vector<string> result = {""};
+
+        for (char digit : digits) {
+            string letters = digitToLetters[digit - '0'];
+            vector<string> newResult;
+
+            for (string combination : result) {
+                for (char letter : letters) {
+                    newResult.push_back(combination + letter);
+                }
+            }
+
+            result = newResult;
+        }
+
         return result;
 
-    }
-    
-    void backtrack(const string& digits, int index, string& currentCombination, 
-                   unordered_map<char, string>& digitToLetters, vector<string>& result) {
-
-        if (index == digits.size()) {
-            result.push_back(currentCombination);
-            return;
-        }
-        
-        char digit = digits[index];
-        string possibleLetters = digitToLetters[digit];
-        
-        for (char letter : possibleLetters) {
-            currentCombination.push_back(letter);  // Add the letter to the current combination
-            backtrack(digits, index + 1, currentCombination, digitToLetters, result);  // Move to the next digit
-            currentCombination.pop_back();  // Backtrack: remove the last letter and try the next one
-        }
     }
 };
