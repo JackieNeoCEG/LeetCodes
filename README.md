@@ -10,6 +10,7 @@
 | [0584-find-customer-referee](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1390-average-selling-price) |
