@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2361-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
