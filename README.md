@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
