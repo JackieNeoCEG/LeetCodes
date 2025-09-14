@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0112-path-sum) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
