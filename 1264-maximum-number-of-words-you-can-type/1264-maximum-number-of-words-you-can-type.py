@@ -13,7 +13,7 @@ class Solution:
                 if flag:
                     break
             if not flag:
-                count = count + 1
+                count += 1
 
         return count
     
