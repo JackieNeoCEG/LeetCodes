@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Counting
 |  |
 | ------- |
