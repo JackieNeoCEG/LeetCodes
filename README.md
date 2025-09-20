@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -123,4 +126,12 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
