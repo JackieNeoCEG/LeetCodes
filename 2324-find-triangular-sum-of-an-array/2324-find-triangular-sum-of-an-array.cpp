@@ -7,7 +7,7 @@ public:
         vector<int> next;
         next.reserve(n - 1);
         for (int i = 0; i < n - 1; i++) {
-            next.push_back((nums[i] + nums[i+1]) % 10);
+            next.push_back((nums[i] + nums[i + 1]) % 10);
         }
 
         return triangularSum(next);
