@@ -34,6 +34,7 @@
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -99,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2361-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
@@ -134,4 +137,8 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
