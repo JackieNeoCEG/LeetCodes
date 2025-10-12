@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
