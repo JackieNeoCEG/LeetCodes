@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
