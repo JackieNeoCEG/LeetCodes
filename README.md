@@ -37,6 +37,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/JackieNeoCEG/LeetCodes/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
