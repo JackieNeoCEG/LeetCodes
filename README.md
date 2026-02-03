@@ -34,6 +34,7 @@
 | [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/JackieNeoCEG/LeetCodes/tree/master/1200-minimum-absolute-difference) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -43,6 +44,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JackieNeoCEG/LeetCodes/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Sorting
 |  |
