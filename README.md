@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0169-majority-element) |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/JackieNeoCEG/LeetCodes/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
